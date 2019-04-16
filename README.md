@@ -1,2 +1,6 @@
 # hello-world
-example
+
+
+Hello everyone,
+
+This is just an example repo mode
